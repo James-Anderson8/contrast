@@ -40,7 +40,7 @@
     {"id":{"name":"Title","path":"fonts/Title/Title.yy",},},
     {"id":{"name":"Button_parent","path":"objects/Button_parent/Button_parent.yy",},},
     {"id":{"name":"help_button","path":"objects/help_button/help_button.yy",},},
-    {"id":{"name":"menu_titles2","path":"objects/menu_titles2/menu_titles2.yy",},},
+    {"id":{"name":"menu_titles","path":"objects/menu_titles/menu_titles.yy",},},
     {"id":{"name":"play_button","path":"objects/play_button/play_button.yy",},},
     {"id":{"name":"quit_button","path":"objects/quit_button/quit_button.yy",},},
     {"id":{"name":"settings_button","path":"objects/settings_button/settings_button.yy",},},

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"menu_titles2",
+  "%Name":"menu_titles",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"menu_titles2",
+  "name":"menu_titles",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
