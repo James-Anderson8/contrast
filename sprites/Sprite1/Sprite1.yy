@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"BLANK GAME",
-    "path":"BLANK GAME.yyp",
+    "name":"Contrast",
+    "path":"Contrast.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

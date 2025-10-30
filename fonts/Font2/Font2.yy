@@ -191,8 +191,8 @@
   "maintainGms1Font":false,
   "name":"Font2",
   "parent":{
-    "name":"BLANK GAME",
-    "path":"BLANK GAME.yyp",
+    "name":"Contrast",
+    "path":"Contrast.yyp",
   },
   "pointRounding":0,
   "ranges":[
@@ -206,10 +206,7 @@
   "sdfSpread":8,
   "size":12.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }

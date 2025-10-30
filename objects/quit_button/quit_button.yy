@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite5",
-    "path":"sprites/Sprite5/Sprite5.yy",
+    "name":"Menu_button",
+    "path":"sprites/Menu_button/Menu_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
